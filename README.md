@@ -11,8 +11,8 @@ The **WithSecure API Export Tool** is a user-friendly application that allows yo
 - **Export to CSV**: Save the data in a UTF-8 encoded CSV file, ensuring compatibility with tools like Google Sheets and Excel.
 - **User-Friendly GUI**: Easy-to-use graphical interface built with Python's Tkinter.
 - **Progress Tracking**: Real-time status updates and progress bar during data retrieval.
-- **Retrieve current OS type (e.g., Windows, Ubuntu, Android, etc.) and current version.
-- **Retrieve the names of all computers (NETBIOS names) for every organization you have access to in https://elements.withsecure.com .
+- **Retrieve current OS type** (e.g., Windows, Ubuntu, Android, etc.) and current version.
+- **Retrieve the names of all computers** (NETBIOS names) for every organization you have access to in https://elements.withsecure.com .
 
 ## Requirements
 
