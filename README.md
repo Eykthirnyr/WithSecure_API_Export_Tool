@@ -13,7 +13,7 @@ The **WithSecure API Export Tool** is a user-friendly application that allows yo
 - **Progress Tracking**: Real-time status updates and progress bar during data retrieval.
 - **Retrieve current OS type** (e.g., Windows, Ubuntu, Android, etc.) and current version.
 - **Retrieve the names of all computers** (NETBIOS names) for every organization you have access to in https://elements.withsecure.com .
-- 
+  
 - **WithSecure_API_Export_Tool_Extended.py ONLY**: Retrieve additional information : End Of Life ; Last User ; Online (T-12Hours) ; Serial Number ; Computer Model ; BIOS Version ; System Drive Total (in GB) ; System Drive Free (in GB) ; Physical Memory Total (in GB) ; Disk Encryption Enabled.
 
 ## Requirements
